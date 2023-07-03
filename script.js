@@ -86,3 +86,7 @@
  
 
 }
+
+const numbers = [10, 45, 19, 10, 56];
+
+const [number1, number2] = numbers;
